@@ -1,0 +1,2 @@
+# BaseTextView
+增加textView的placeHolder属性
